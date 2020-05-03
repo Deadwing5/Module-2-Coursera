@@ -40,15 +40,15 @@ h1 {text-align: center;
   }  
 
   .chicken{
-    background-color:#009999;         
+    background-color:#993333;         
     color: white;
     }
    .beef{
-    background-color:#3333ff;
+    background-color:#33996d;
     color: white;  
    }
    .sushi{
-    background-color:#993366;
+    background-color:#337099;
     color: white;   
    }
 @media (min-width: 992px) {  
