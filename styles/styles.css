@@ -5,7 +5,7 @@
   padding: 0;
 }
 body {
-  font-family: sans-serif;
+  font-family: serif;
   font-size: 100%;
 }
 
@@ -66,10 +66,10 @@ h1 {text-align: center;
     width: 25%;
   }
   .col-lg-4 {
-    width: 33.33%;
+    width: 33%;
   }
   .col-lg-5 {
-    width: 41.66%;
+    width: 41%;
   }
   .col-lg-6 {
     width: 50%;
